@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <Hotel>
-  <Hotel Rating="4.2">
+    <Hotel Rating="4.2">
     <Name>Westin</Name>
     <Phone>480-968-8885</Phone>
     <Phone>800-937-8461</Phone>
@@ -10,6 +10,7 @@
       <City>Tempe</City>
       <State>AZ</State>
       <Zip>85281</Zip>
+    </Address>
   </Hotel>
   <Hotel Rating="4.7">
     <Name>LondonHouse Chicago, Curio Collection by Hilton</Name>
@@ -120,7 +121,6 @@
       <City>Chicago</City>
       <State>IL</State>
       <Zip>60603</Zip>
-    </Address>
   </Hotel>
-
 </Hotel>
+
