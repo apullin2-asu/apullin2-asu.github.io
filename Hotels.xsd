@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Hotels"
+    targetNamespace="http://tempuri.org/Hotels.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://www.w3.org/2001/XMLSchema"
+    xmlns:mstns="http://tempuri.org/Hotels.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+  <element name="Hotels">
+    <complexType>
+      <sequence>
+        <element name="Hotel" minOccurs="1" maxOccurs="unbounded">
+          <complexType>
+            <sequence>
+              <element name="Name" type="string" minOccurs="1" maxOccurs="1"/>
+              <element name="Phone" type="string" minOccurs="1" maxOccurs="unbounded"/>
+              <element name="Address" minOccurs="1" maxOccurs="1">
+                <complexType>
+                  <sequence>
+                    <element name="Number" type="integer" minOccurs="1" maxOccurs="1"/>
+                    <element name="Street" type="string" minOccurs="1" maxOccurs="1"/>
+                    <element name="City" type="string" minOccurs="1" maxOccurs="1"/>
+                    <element name="State" type="string" minOccurs="1" maxOccurs="1"/>
+                    <element name="Zip" type="integer" minOccurs="1" maxOccurs="1"/>
+                  </sequence>
+                  <attribute name="NearestAirport" type="string" use="required"></attribute>
+                </complexType>
+              </element>
+            </sequence>
+            <attribute name="Rating" type="decimal"></attribute>
+          </complexType>
+        </element>
+      </sequence>
+    </complexType>
+  </element>
+</xs:schema>

@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Hotels xmlns="http://tempuri.org/Hotels.xsd">
+  <Hotel Rating="4.2">
+    <Name>Westin</Name>
+    <Phone>480-968-8885</Phone>
+    <Phone>800-937-8461</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>11</Number>
+      <Street>E.7th St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Rating="4.7">
+    <Name>LondonHouse Chicago, Curio Collection by Hilton</Name>
+    <Phone>844-442-8746</Phone>
+    <Phone>888-446-6677</Phone>
+    <Address NearestAirport="O'hare">
+      <Number>85</Number>
+      <Street>E Wacker Drive</Street>
+      <City>Chicago</City>
+      <State>IL</State>
+      <Zip>60601</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Rating="4.3">
+    <Name>Swissôtel Chicago</Name>
+    <Phone>312-565-0565</Phone>
+    <Address NearestAirport="O'hare">
+      <Number>323</Number>
+      <Street>E Wacker Drive</Street>
+      <City>Chicago</City>
+      <State>IL</State>
+      <Zip>60601</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Rating="4.7">
+    <Name>The Royal Sonesta Chicago River North</Name>
+    <Phone>312-584-6623</Phone>
+    <Address NearestAirport="O'hare">
+      <Number>505</Number>
+      <Street>N State Street</Street>
+      <City>Chicago</City>
+      <State>IL</State>
+      <Zip>60654</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Rating="4.1">
+    <Name>The Drake</Name>
+    <Phone>855-605-0316</Phone>
+    <Address NearestAirport="O'hare">
+      <Number>140</Number>
+      <Street>E Walton Place</Street>
+      <City>Chicago</City>
+      <State>IL</State>
+      <Zip>60611</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Rating="4.3">
+    <Name>The Godfrey Hotel Chicago</Name>
+    <Phone>312-649-2000</Phone>
+    <Address NearestAirport="O'hare">
+      <Number>127</Number>
+      <Street>W Huron Street</Street>
+      <City>Chicago</City>
+      <State>IL</State>
+      <Zip>60654</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Rating="4.5">
+    <Name>Radisson Blu Aqua Chicago</Name>
+    <Phone>312-565-5258</Phone>
+    <Address NearestAirport="O'hare">
+      <Number>221</Number>
+      <Street>N Columbus Drive</Street>
+      <City>Chicago</City>
+      <State>IL</State>
+      <Zip>60601</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Rating="4.5">
+    <Name>Kinzie Hotel</Name>
+    <Phone>872-207-0401</Phone>
+    <Address NearestAirport="O'hare">
+      <Number>20</Number>
+      <Street>W Kinzie Street</Street>
+      <City>Chicago</City>
+      <State>IL</State>
+      <Zip>60654</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Rating="4.8">
+    <Name>The Langham, Chicago</Name>
+    <Phone>312-923-9988</Phone>
+    <Address NearestAirport="O'hare">
+      <Number>330</Number>
+      <Street>N Wabash Avenue</Street>
+      <City>Chicago</City>
+      <State>IL</State>
+      <Zip>60611</Zip>
+    </Address>
+  </Hotel>
+  <Hotel>
+    <Name>Majestic Hotel Chicago</Name>
+    <Phone>773-694-4709</Phone>
+    <Address NearestAirport="O'hare">
+      <Number>528</Number>
+      <Street>W Brompton Ave Wrigleyville</Street>
+      <City>Chicago</City>
+      <State>IL</State>
+      <Zip>60657</Zip>
+    </Address>
+  </Hotel>
+  <Hotel>
+    <Name>Palmer House a Hilton Hotel</Name>
+    <Phone>855-605-0316</Phone>
+    <Phone>888-446-6677</Phone>
+    <Address NearestAirport="O'hare">
+      <Number>17</Number>
+      <Street>E Monroe Street</Street>
+      <City>Chicago</City>
+      <State>IL</State>
+      <Zip>60603</Zip>
+    </Address>
+  </Hotel>
+</Hotels>
