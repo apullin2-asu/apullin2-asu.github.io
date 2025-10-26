@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <xs:schema id="Hotels"
-    targetNamespace="http://tempuri.org/Hotels.xsd"
+    targetNamespace="https://apullin2-asu.github.io/Hotels.xsd"
     elementFormDefault="qualified"
     xmlns="http://www.w3.org/2001/XMLSchema"
-    xmlns:mstns="http://tempuri.org/Hotels.xsd"
+    xmlns:mstns="https://apullin2-asu.github.io/Hotels.xsd"
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
 >
   <element name="Hotels">
@@ -34,3 +34,4 @@
     </complexType>
   </element>
 </xs:schema>
+
